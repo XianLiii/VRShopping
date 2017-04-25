@@ -1,0 +1,104 @@
+fileFormatVersion: 2
+guid: cd7ad8d67d06b45f0a3f253d2dfcfc39
+timeCreated: 1477908834
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: PotatoChips_01
+    100002: PotatoChips_02
+    100004: PotatoChips_03
+    100006: PotatoChips_04
+    100008: PotatoChips_05
+    100010: PotatoChips_06
+    100012: //RootNode
+    400000: PotatoChips_01
+    400002: PotatoChips_02
+    400004: PotatoChips_03
+    400006: PotatoChips_04
+    400008: PotatoChips_05
+    400010: PotatoChips_06
+    400012: //RootNode
+    2300000: PotatoChips_01
+    2300002: PotatoChips_02
+    2300004: PotatoChips_03
+    2300006: PotatoChips_04
+    2300008: PotatoChips_05
+    2300010: PotatoChips_06
+    3300000: PotatoChips_01
+    3300002: PotatoChips_02
+    3300004: PotatoChips_03
+    3300006: PotatoChips_04
+    3300008: PotatoChips_05
+    3300010: PotatoChips_06
+    4300000: PotatoChips_01
+    4300002: PotatoChips_02
+    4300004: PotatoChips_03
+    4300006: PotatoChips_04
+    4300008: PotatoChips_05
+    4300010: PotatoChips_06
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

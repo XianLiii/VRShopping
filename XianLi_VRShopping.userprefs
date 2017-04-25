@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ControlPanel.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ButtonStructure.cs" Line="5" Column="2" />
+      <File FileName="Assets/Scripts/ProductMode.cs" Line="49" Column="42" />
+      <File FileName="Assets/Scripts/SceneTransition.cs" Line="18" Column="30" />
+      <File FileName="Assets/Scripts/CameraTexture.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ControlPanel.cs" Line="20" Column="2" />
+      <File FileName="Assets/Scripts/ExitProductMode.cs" Line="17" Column="36" />
+      <File FileName="Assets/Scripts/LeapMotionGesture.cs" Line="10" Column="34" />
+      <File FileName="Assets/Scripts/ButtonFunction.cs" Line="200" Column="6" />
+      <File FileName="Assets/Scripts/AudioController.cs" Line="15" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

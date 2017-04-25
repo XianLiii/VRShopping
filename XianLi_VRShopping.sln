@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{684ABC61-28E2-637D-4089-13AEE97ADE4A}") = "XianLi_VRShopping", "Assembly-CSharp.csproj", "{9CDC5FE6-3A12-A722-7DE2-170CDB430DBD}"
+EndProject
+Project("{684ABC61-28E2-637D-4089-13AEE97ADE4A}") = "XianLi_VRShopping", "Assembly-CSharp-Editor.csproj", "{98EC7E27-0632-1903-BDFE-3EF7C22612E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CDC5FE6-3A12-A722-7DE2-170CDB430DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CDC5FE6-3A12-A722-7DE2-170CDB430DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CDC5FE6-3A12-A722-7DE2-170CDB430DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CDC5FE6-3A12-A722-7DE2-170CDB430DBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98EC7E27-0632-1903-BDFE-3EF7C22612E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98EC7E27-0632-1903-BDFE-3EF7C22612E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98EC7E27-0632-1903-BDFE-3EF7C22612E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98EC7E27-0632-1903-BDFE-3EF7C22612E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
